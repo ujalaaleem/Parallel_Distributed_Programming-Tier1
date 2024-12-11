@@ -80,45 +80,29 @@ python parallel_processing.py
 
 ---
 
-## **Execution Results**
-
-### **Linear Processing**
-- **Execution Time**: **89.21 seconds**
-- **Top 10 Most Common Fee Submission Dates**:
-  | Date       | Frequency |
-  |------------|-----------|
-  | 2024-02-23 | 3609      |
-  | 2024-02-16 | 3571      |
-  | 2024-02-29 | 3540      |
-  | 2024-02-13 | 3526      |
-  | 2024-02-17 | 3526      |
-  | 2024-02-28 | 3520      |
-  | 2024-02-12 | 3500      |
-  | 2024-02-11 | 3493      |
-  | 2024-02-07 | 3464      |
-  | 2024-02-10 | 3452      |
-
-### **Parallel Processing**
-- **Execution Time**: **70.60 seconds**
-- **Top 10 Most Common Fee Submission Dates**:
-  | Date       | Frequency |
-  |------------|-----------|
-  | 2024-02-23 | 3609      |
-  | 2024-02-16 | 3571      |
-  | 2024-02-29 | 3540      |
-  | 2024-02-13 | 3526      |
-  | 2024-02-17 | 3526      |
-  | 2024-02-28 | 3520      |
-  | 2024-02-12 | 3500      |
-  | 2024-02-11 | 3493      |
-  | 2024-02-07 | 3464      |
-  | 2024-02-10 | 3452      |
-
 # Time Comparison: Linear vs Parallel Processing
 
 Here is a comparison of the execution times between the linear and parallel processing approaches.
+### **Linear Processing**
+- **Execution Time**: **100.98 seconds**
+### **Parallel Processing**
+- **Execution Time**: **82.57 seconds**
 
 ![Time Comparison](assets/processing_time_comparison.png)
+
+- **Top 10 Most Common Fee Submission Dates**:
+  | Date       | Frequency |
+  |------------|-----------|
+  | 2024-02-23 | 3609      |
+  | 2024-02-16 | 3571      |
+  | 2024-02-29 | 3540      |
+  | 2024-02-13 | 3526      |
+  | 2024-02-17 | 3526      |
+  | 2024-02-28 | 3520      |
+  | 2024-02-12 | 3500      |
+  | 2024-02-11 | 3493      |
+  | 2024-02-07 | 3464      |
+  | 2024-02-10 | 3452      |
 
 ---
 
