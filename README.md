@@ -1,5 +1,5 @@
 
-# **Ujala Aleem (21B-104-CS-A)**
+## **Ujala Aleem (21B-104-CS-A)**
 ---
 # Student Fee Submission Analysis: Linear vs Parallel Processing
 
@@ -113,6 +113,12 @@ python parallel_processing.py
   | 2024-02-11 | 3493      |
   | 2024-02-07 | 3464      |
   | 2024-02-10 | 3452      |
+
+# Time Comparison: Linear vs Parallel Processing
+
+Here is a comparison of the execution times between the linear and parallel processing approaches.
+
+![Time Comparison](assets/processing_time_comparison.png)
 
 ---
 
