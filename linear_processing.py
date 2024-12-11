@@ -18,7 +18,6 @@ def linear_processing(students_file, fees_file):
 
     all_dates = [date for dates in student_dates.values() for date in dates]
     date_frequency = Counter(all_dates)
-
     return date_frequency
 
 students_file = "students.csv"
