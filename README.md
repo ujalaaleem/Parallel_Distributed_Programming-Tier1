@@ -3,16 +3,16 @@
 ---
 # Student Fee Submission Analysis: Linear vs Parallel Processing
 
-This project demonstrates the use of linear and parallel processing techniques to analyze student fee submission patterns. The goal is to identify the most common fee submission dates and compare execution times between the two approaches.
+This assignment demonstrates the use of linear and parallel processing techniques to analyze student fee submission patterns. The goal is to identify the most common fee submission dates and compare execution times between the two approaches.
 
 ---
-## **Project Overview**
+## **Assignment Overview**
 
-This project focuses on:
+This assignment focuses on:
 - **Linear Processing**: A step-by-step sequential approach for processing data, suitable for smaller datasets.
 - **Parallel Processing**: A faster alternative that uses Python’s `multiprocessing` module, ideal for handling large datasets efficiently.
 
-The project analyzes two CSV files:
+The assignment analyzes two CSV files:
 1. `students.csv`: Contains student details:
    - `StudentID`: Unique identifier for each student.
    - `Name`: Name of the student.
@@ -29,7 +29,7 @@ Both approaches calculate the frequency of fee submission dates and list the mos
 
 ---
 
-## **How to Run the Project**
+## **How to Run the assignment**
 
 ### **1. Setup the Environment**
 1. Create a virtual environment:
@@ -101,7 +101,7 @@ Here is a comparison of the execution times between the linear and parallel proc
 ---
 
 ## **Dependencies**
-This project uses:
+This assignment uses:
 - **pandas**: For efficient data manipulation and analysis.
 - **multiprocessing**: To implement parallel processing.
 
