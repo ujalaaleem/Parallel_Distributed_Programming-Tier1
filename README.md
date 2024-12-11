@@ -26,6 +26,7 @@ The project analyzes two CSV files:
    - `PaymentDate`: Date the payment was made.
 
 Both approaches calculate the frequency of fee submission dates and list the most common dates along with their frequencies.
+
 ---
 
 ## **How to Run the Project**
