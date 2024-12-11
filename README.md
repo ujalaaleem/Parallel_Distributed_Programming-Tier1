@@ -26,21 +26,6 @@ The project analyzes two CSV files:
    - `PaymentDate`: Date the payment was made.
 
 Both approaches calculate the frequency of fee submission dates and list the most common dates along with their frequencies.
-
----
-
-## **Directory Structure**
-
-```
-Student-Fee-Analysis/
-├── data/
-│   ├── students.csv   # Student data file
-│   ├── fees.csv       # Fee payment data file
-├── linear_processing.py  # Linear processing script
-├── parallel_processing.py  # Parallel processing script
-└── README.md          # Project documentation
-```
-
 ---
 
 ## **How to Run the Project**
