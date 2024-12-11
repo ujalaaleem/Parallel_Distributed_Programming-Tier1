@@ -1,10 +1,11 @@
 
+# **Ujala Aleem (21B-104-CS-A)**
+---
 # Student Fee Submission Analysis: Linear vs Parallel Processing
 
 This project demonstrates the use of linear and parallel processing techniques to analyze student fee submission patterns. The goal is to identify the most common fee submission dates and compare execution times between the two approaches.
 
 ---
-
 ## **Project Overview**
 
 This project focuses on:
