@@ -19,7 +19,6 @@ def parallel_processing_multiprocessing(students_file, fees_file):
 
     all_dates = [date for dates in results for date in dates]
     date_frequency = Counter(all_dates)
-
     return date_frequency
 
 # Measure time for multiprocessing
